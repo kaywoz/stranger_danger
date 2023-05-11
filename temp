@@ -1,0 +1,1 @@
+sudo bash -c "$(curl -fsSL https://teleport.krypi.net/scripts/263a9d8f4b3a92506f7f50b2b02efaa3/install-node.sh)"
